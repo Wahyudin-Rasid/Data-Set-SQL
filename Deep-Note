@@ -1,0 +1,5 @@
+industry = pd.read_csv("./industry.csv",sep=",")
+investment = pd.read_csv("./investment.csv",sep=",")
+company_2010 = pd.read_csv("./company_2010.csv",sep=",")
+company_2020 = pd.read_csv("./company_2020.csv",sep=",")
+company_2030 = pd.read_csv("./company_2030.csv",sep=",")
